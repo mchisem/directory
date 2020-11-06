@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Employee Directory
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+
+* For this assignment, I created aa employee directory with React. This assignment will require you to break up your application's UI into components, manage component states, and respond to user events.
+
+## Table of Contents
 
 ## Available Scripts
 
@@ -68,3 +72,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Helpful Links
+
+* [Why did we build React?](https://reactjs.org/blog/2013/06/05/why-react.html)
+* [React.js](https://reactjs.org/)
+* [Create React App](https://github.com/facebook/create-react-app)
+* [Babel](https://babeljs.io/docs/en/)
+* [webpack](https://webpack.js.org/)
+* [JSX](https://reactjs.org/docs/introducing-jsx.html)
+* [Components and Props](https://reactjs.org/docs/components-and-props.html#es6-classes)
+* [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+* [gh-pages](https://www.npmjs.com/package/gh-pages)
+
+## Deployed Project
+
+You can view the deployed project [here]
+
+## Questions
+
+Questions or concerns? Contact me by my GitHub username!
+
+- [mchisem](https://github.com/mchisem)
